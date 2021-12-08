@@ -20,8 +20,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
@@ -38,6 +37,7 @@
   },
   "devDependencies": {
     "babel-plugin-react-native-web": "^0.17.5",
+    "eslint-config-react-app": "^6.0.0",
     "react-app-rewired": "^2.1.8"
   }
 }
