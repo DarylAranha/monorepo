@@ -13,3 +13,15 @@ Clone the project and run `yarn`
 $ cd <project-directory> 
 $ yarn
 ```
+
+## Comands to run the application
+```
+# For Web
+$ yarn workspace web start
+
+# For Mobile (Android)
+$ yarn workspace mobile run-android
+
+# For Mobile (IOS)
+$ yarn workspace mobile run-ios
+```
