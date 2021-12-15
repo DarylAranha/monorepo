@@ -14,7 +14,7 @@ $ cd <project-directory>
 $ yarn
 ```
 
-## Comands to run the application
+## Commands to run the application
 ```
 # For Web
 $ yarn workspace web start
